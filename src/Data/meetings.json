@@ -1,0 +1,233 @@
+[
+		{
+			"ID": "8906",
+			"UserWhoCreatedMeeting": "6786",
+			"Title":"Stop signs Farmingdale",
+			"NumOfAttendees":"20",
+			"StartTime":"7/10/2017 8:45 AM",
+			"EndTime":"7/10/2017 9:45 AM",
+			"Duration":"1",
+			"Status":"Completed",
+			"meetingDetails":[
+				{
+					"meetingID":"8906",
+					"userID":"7856",
+					"startTime":"7/10/2017 8:55 AM",
+					"privateComments":"Suck it",
+					"publicComments":"I think the signs should be placed asap"
+				},
+				{
+					"meetingID":"8906",
+					"userID":"6856",
+					"startTime":"7/10/2017 8:56 AM",
+					"privateComments":"Hell No",
+					"publicComments":"I think the signs are important"
+				},
+				{
+					"meetingID":"8906",
+					"userID":"5956",
+					"startTime":"7/10/2017 8:57 AM",
+					"privateComments":"Hell Yeah",
+					"publicComments":"Its waste of funds, no accidents have taken place yet"
+				},
+			]
+		},
+		{
+			"ID": "8999",
+			"UserWhoCreatedMeeting": "6786",
+			"Title":"Pool renovation",
+			"NumOfAttendees":"0",
+			"StartTime":"7/10/2017 8:45 AM",
+			"EndTime":"7/10/2017 9:45 AM",
+			"Duration":"1",
+			"Status":"Upcoming",
+			"meetingDetails":[]
+		},
+		{
+			"ID": "9906",
+			"UserWhoCreatedMeeting": "6755",
+			"Title":"Budget Meeting",
+			"NumOfAttendees":"20",
+			"StartTime":"7/11/2017 8:45 AM",
+			"EndTime":"7/11/2017 9:45 AM",
+			"Duration":"1",
+			"Status":"Completed",
+			"meetingDetails":[
+				{
+					"meetingID":"9906",
+					"userID":"7856",
+					"startTime":"7/11/2017 8:55 AM",
+					"privateComments":"Suck it",
+					"publicComments":"Heavy Budget"
+				},
+				{
+					"meetingID":"9906",
+					"userID":"6856",
+					"startTime":"7/11/2017 8:56 AM",
+					"privateComments":"Hell No",
+					"publicComments":"Lower the cost of vigiliance"
+				},
+				{
+					"meetingID":"9906",
+					"userID":"5956",
+					"startTime":"7/11/2017 8:57 AM",
+					"privateComments":"Hell Yeah",
+					"publicComments":"I concur"
+				},
+			]
+		},
+		{
+			"ID": "9998",
+			"UserWhoCreatedMeeting": "6786",
+			"Title":"Snow plowing",
+			"NumOfAttendees":"0",
+			"StartTime":"7/11/2017 8:45 AM",
+			"EndTime":"7/11/2017 9:45 AM",
+			"Duration":"1",
+			"Status":"Upcoming",
+			"meetingDetails":[]
+		},
+		{
+			"ID": "8888",
+			"UserWhoCreatedMeeting": "6786",
+			"Title":"Graden renovation",
+			"NumOfAttendees":"20",
+			"StartTime":"7/12/2017 8:45 AM",
+			"EndTime":"7/12/2017 9:45 AM",
+			"Duration":"1",
+			"Status":"Completed",
+			"meetingDetails":[
+				{
+					"meetingID":"8888",
+					"userID":"7856",
+					"startTime":"7/12/2017 8:55 AM",
+					"privateComments":"Suck it",
+					"publicComments":"I think the signs should be placed asap"
+				},
+				{
+					"meetingID":"8888",
+					"userID":"6856",
+					"startTime":"7/12/2017 8:56 AM",
+					"privateComments":"Hell No",
+					"publicComments":"I think the signs are important"
+				},
+				{
+					"meetingID":"8888",
+					"userID":"5956",
+					"startTime":"7/12/2017 8:57 AM",
+					"privateComments":"Hell Yeah",
+					"publicComments":"Its waste of funds, no accidents have taken place yet"
+				},
+			]
+		},
+		{
+			"ID": "8787",
+			"UserWhoCreatedMeeting": "6755",
+			"Title":"Village Parking",
+			"NumOfAttendees":"0",
+			"StartTime":"7/12/2017 8:45 AM",
+			"EndTime":"7/12/2017 9:45 AM",
+			"Duration":"1",
+			"Status":"Upcoming",
+			"meetingDetails":[]
+		},
+		{
+			"ID": "8945",
+			"UserWhoCreatedMeeting": "6755",
+			"Title":"Public school court",
+			"NumOfAttendees":"20",
+			"StartTime":"7/12/2017 8:45 AM",
+			"EndTime":"7/12/2017 9:45 AM",
+			"Duration":"1",
+			"Status":"Completed",
+			"meetingDetails":[
+				{
+					"meetingID":"8945",
+					"userID":"7856",
+					"startTime":"7/12/2017 8:55 AM",
+					"privateComments":"Suck it",
+					"publicComments":"I think the signs should be placed asap"
+				},
+				{
+					"meetingID":"8945",
+					"userID":"6856",
+					"startTime":"7/12/2017 8:56 AM",
+					"privateComments":"Hell No",
+					"publicComments":"I think the signs are important"
+				},
+				{
+					"meetingID":"8945",
+					"userID":"5956",
+					"startTime":"7/12/2017 8:57 AM",
+					"privateComments":"Hell Yeah",
+					"publicComments":"Its waste of funds, no accidents have taken place yet"
+				},
+			]
+		},
+		{
+			"ID": "7777",
+			"UserWhoCreatedMeeting": "6786",
+			"Title":"Sewage problem",
+			"NumOfAttendees":"0",
+			"StartTime":"7/11/2017 8:45 AM",
+			"EndTime":"7/11/2017 9:45 AM",
+			"Duration":"1",
+			"Status":"Upcoming",
+			"meetingDetails":[]
+		},
+		{
+			"ID": "7996",
+			"UserWhoCreatedMeeting": "6755",
+			"Title":"Elections for Director",
+			"NumOfAttendees":"20",
+			"StartTime":"7/10/2017 8:45 AM",
+			"EndTime":"7/10/2017 9:45 AM",
+			"Duration":"1",
+			"Status":"Completed",
+			"meetingDetails":[
+				{
+					"meetingID":"7996",
+					"userID":"7856",
+					"startTime":"7/10/2017 8:55 AM",
+					"privateComments":"Suck it",
+					"publicComments":"I think the signs should be placed asap"
+				},
+				{
+					"meetingID":"7996",
+					"userID":"6856",
+					"startTime":"7/10/2017 8:56 AM",
+					"privateComments":"Hell No",
+					"publicComments":"I think the signs are important"
+				},
+				{
+					"meetingID":"7996",
+					"userID":"5956",
+					"startTime":"7/10/2017 8:57 AM",
+					"privateComments":"Hell Yeah",
+					"publicComments":"Its waste of funds, no accidents have taken place yet"
+				},
+			]
+		},
+		{
+			"ID": "8123",
+			"UserWhoCreatedMeeting": "6755",
+			"Title":"Water Problem",
+			"NumOfAttendees":"0",
+			"StartTime":"7/10/2017 8:45 AM",
+			"EndTime":"7/10/2017 9:45 AM",
+			"Duration":"1",
+			"Status":"Upcoming",
+			"meetingDetails":[]
+		},
+		{
+			"ID": "81555",
+			"UserWhoCreatedMeeting": "6786",
+			"Title":"New Contractors",
+			"NumOfAttendees":"0",
+			"StartTime":"7/12/2017 8:45 AM",
+			"EndTime":"7/12/2017 9:45 AM",
+			"Duration":"1",
+			"Status":"Upcoming",
+			"meetingDetails":[]
+		},
+	]

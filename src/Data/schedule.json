@@ -1,0 +1,780 @@
+{
+  "schedule": [
+    {
+      "type":"talk",
+      "speaker":"Jamon Holmgren",
+      "status":"Upcoming",
+      "image":"jamon",
+      "title":"Meeting for road blocks",
+      "description":"@RichMichals: The road blocks should be removed as soon as possible because it disturbs the guest I invite. \n@AngelVelez:They were put in for construction of a sewage line which was completed months ago. \n@MichelEichner:A vote should be held on it. \n@Tom:A stop sign should be placed after road blocks are removed some people are reckless drivers and my children play on the street.",
+      "time":"7/10/2017 8:45 AM",
+      "duration":"5",
+      "speakerInfo": [
+        {
+          "name": "Jamon Holmgren",
+          "bio":"Jamon Holmgren is the Director of operations at Farmingdale",
+          "twitter":"jamonholmgren",
+          "github": "jamonholmgren",
+          "company":"Infinite Red"
+        }
+      ]
+    },
+    {
+      "type":"talk",
+      "speaker":"Jamon Michals",
+      "status":"Completed",
+      "image":"jamon",
+      "title":"Meeting for Solar Panels",
+      "description":"@RichMichals: The road blocks should be removed as soon as possible because it disturbs the guest I invite. \n@AngelVelez:They were put in for construction of a sewage line which was completed months ago. \n@MichelEichner:A vote should be held on it. \n@Tom:A stop sign should be placed after road blocks are removed some people are reckless drivers and my children play on the street.",
+      "time":"7/12/2017 8:45 AM",
+      "duration":"5",
+      "speakerInfo": [
+        {
+          "name": "Jamon Holmgren",
+          "bio":"Jamon Holmgren is the Director of operations at Farmingdale",
+          "twitter":"jamonholmgren",
+          "github": "jamonholmgren",
+          "company":"Infinite Red"
+        }
+      ]
+    },
+    {
+      "type":"talk",
+      "speaker":"Jamon Holmgren & Gant Laborde",
+      "status":"Completed",
+      "image":"panel",
+      "title":"Stop sign on Locust Meeting",
+      "time":"7/12/2017 8:45 AM",
+      "description":"@RichMichals: The road blocks should be removed as soon as possible because it disturbs the guest I invite. \n@AngelVelez:They were put in for construction of a sewage line which was completed months ago. \n@MichelEichner:A vote should be held on it. \n@Tom:A stop sign should be placed after road blocks are removed some people are reckless drivers and my children play on the street.",
+      "duration":"15",
+      "speakerInfo": [
+        {
+          "name": "Jamon Holmgren",
+          "bio":"Jamon Holmgren is the COO and one of the founders for Infinite Red.",
+          "twitter":"jamonholmgren",
+          "github": "jamonholmgren",
+          "company":"Infinite Red"
+        },
+        {
+          "name": "Gant Laborde",
+          "bio":"Gant Laborde is the Chief Technology Strategist for Infinite Red and Master of Ceremonies for the conference.",
+          "twitter":"gantlaborde",
+          "github": "gantman",
+          "company":"Infinite Red"
+        }
+      ]
+    },
+    {
+      "type":"talk",
+      "speaker":"Gant Laborde",
+      "status":"Completed",
+      "image":"gant",
+      "title":"Weekly Announcemments",
+      "description":"@RichMichals: The road blocks should be removed as soon as possible because it disturbs the guest I invite. \n@AngelVelez:They were put in for construction of a sewage line which was completed months ago. \n@MichelEichner:A vote should be held on it. \n@Tom:A stop sign should be placed after road blocks are removed some people are reckless drivers and my children play on the street.",
+      "time":"7/10/2017 8:50 AM",
+      "duration":"10",
+      "speakerInfo": [
+        {
+          "name": "Gant Laborde",
+          "bio":"Gant Laborde is the Chief Technology Strategist for Infinite Red and Master of Ceremonies for the conference.",
+          "twitter":"gantlaborde",
+          "github": "gantman",
+          "company":"Infinite Red"
+        }
+      ]
+    },
+    {
+      "type":"talk",
+      "speaker":"Gant Laborde",
+      "status":"Completed",
+      "image":"gant",
+      "title":"Meeting regarding road construction",
+      "description":"@RichMichals: The road blocks should be removed as soon as possible because it disturbs the guest I invite. \n@AngelVelez:They were put in for construction of a sewage line which was completed months ago. \n@MichelEichner:A vote should be held on it. \n@Tom:A stop sign should be placed after road blocks are removed some people are reckless drivers and my children play on the street.",
+      "time":"7/11/2017 8:45 AM",
+      "duration":"15",
+      "speakerInfo": [
+        {
+          "name": "Gant Laborde",
+          "bio":"Gant Laborde is the Chief Technology Strategist for Infinite Red and Master of Ceremonies for the conference.",
+          "twitter":"gantlaborde",
+          "github": "gantman",
+          "company":"Infinite Red"
+        }
+      ]
+    },
+    {
+      "type":"talk",
+      "speaker":"Mike Grabowski",
+      "status":"Upcoming",
+      "image":"mike",
+      "title":"4th July Meeting",
+      "description":"@RichMichals: The road blocks should be removed as soon as possible because it disturbs the guest I invite. \n@AngelVelez:They were put in for construction of a sewage line which was completed months ago. \n@MichelEichner:A vote should be held on it. \n@Tom:A stop sign should be placed after road blocks are removed some people are reckless drivers and my children play on the street.",
+      "time":"7/10/2017 9:00 AM",
+      "duration":"30",
+      "speakerInfo": [
+        {
+          "name": "Mike Grabowski",
+          "bio":"Mike is the founder of Callstack.io, a React Native core contributor, and the creator of numerous open source libraries.",
+          "twitter":"grabbou",
+          "github": "grabbou",
+          "company":"Callstack"
+        }
+      ]
+    },
+    {
+      "type":"talk",
+      "speaker":"Brent Vatne",
+      "status":"Upcoming",
+      "image":"brent",
+      "title":"Beach Cleanup Drive meeting",
+      "description":"@RichMichals: The road blocks should be removed as soon as possible because it disturbs the guest I invite. \n@AngelVelez:They were put in for construction of a sewage line which was completed months ago. \n@MichelEichner:A vote should be held on it. \n@Tom:A stop sign should be placed after road blocks are removed some people are reckless drivers and my children play on the street.",
+      "time":"7/10/2017 9:30 AM",
+      "duration":"30",
+      "speakerInfo": [
+        {
+          "name": "Brent Vatne",
+          "twitter":"notbrent",
+          "github": "brentvatne",
+          "company":"Expo",
+          "bio":"Front-end web/mobile developer working on Expo (https://expo.io) and React Native"
+        }
+      ]
+    },
+    {
+      "type":"talk",
+      "speaker":"Richard Threlkeld",
+      "status":"Upcoming",
+      "image":"richard",
+      "title":"Farmingdale Road Construction Meeting",
+      "description":"@RichMichals: The road blocks should be removed as soon as possible because it disturbs the guest I invite. \n@AngelVelez:They were put in for construction of a sewage line which was completed months ago. \n@MichelEichner:A vote should be held on it. \n@Tom:A stop sign should be placed after road blocks are removed some people are reckless drivers and my children play on the street.",
+      "time":"7/12/2017 10:30 AM",
+      "duration":"30",
+      "speakerInfo": [
+        {
+          "name": "Richard Threlkeld",
+          "twitter":"undef_obj",
+          "github": "RTHRELKELD1980",
+          "company":"Amazon",
+          "bio":"Senior Technical Product Manager at AWS, focusing on developer experience in AWS Mobile."
+        }
+      ]
+    },
+    {
+      "type":"talk",
+      "speaker":"Poornima Venkat",
+      "status":"Upcoming",
+      "image":"poornima",
+      "title":"Village Parking Problem Meeting",
+      "description":"@RichMichals: The road blocks should be removed as soon as possible because it disturbs the guest I invite. \n@AngelVelez:They were put in for construction of a sewage line which was completed months ago. \n@MichelEichner:A vote should be held on it. \n@Tom:A stop sign should be placed after road blocks are removed some people are reckless drivers and my children play on the street.",
+      "time":"7/12/2017 11:00 AM",
+      "duration":"30",
+      "speakerInfo": [
+        {
+          "name":"Poornima Venkat",
+          "twitter":"poorni_venkat",
+          "github": "pvenkatakrishnan",
+          "company":"PayPal",
+          "bio":"Poornima is a hands-on Engineering manager at Paypal. She likes playing with new technologies and solving challenging problems.  She was one of the core contributors to Krakenjs: the opensourced node.js framework from Paypal. Currently she is focussed on the Paypal Checkout Mobile SDK (also OpenSourced) and building a team to expand the capabilities in the SDK that will enable great Checkout experiences in native applications."
+        }
+      ]
+    },
+    {
+      "type":"talk",
+      "speaker":"Ben Ilegbodu",
+      "status":"Completed",
+      "image":"ben",
+
+      "title":"Meeting For Sewage problem",
+      "description":"@RichMichals: The road blocks should be removed as soon as possible because it disturbs the guest I invite. \n@AngelVelez:They were put in for construction of a sewage line which was completed months ago. \n@MichelEichner:A vote should be held on it. \n@Tom:A stop sign should be placed after road blocks are removed some people are reckless drivers and my children play on the street.",
+      "time":"7/10/2017 11:30 AM",
+      "duration":"30",
+      "speakerInfo": [
+        {
+          "name":"Ben Ilegbodu",
+          "twitter":"benmvp",
+          "github": "benmvp",
+          "company":"Eventbrite",
+          "bio":"Ben is a Christian, a husband and a father of 2 with 10+ years of experience developing user interfaces for the Web. He currently manages the team at Eventbrite focused on making Eventbrite THE destination for finding events and other things to do. On the side, Ben also enjoys playing basketball, DIY, watching movies, and blogging (benmvp.com) / tweeting (@benmvp) about his experiences with new web technologies."
+        }
+      ]
+    },
+    {
+      "type":"talk",
+      "speaker":"Nader Dabit",
+      "status":"Completed",
+      "image":"nader",
+      "title":"Meeting to decide contractors",
+      "description":"@RichMichals: The road blocks should be removed as soon as possible because it disturbs the guest I invite. \n@AngelVelez:They were put in for construction of a sewage line which was completed months ago. \n@MichelEichner:A vote should be held on it. \n@Tom:A stop sign should be placed after road blocks are removed some people are reckless drivers and my children play on the street.",
+      "time":"7/10/2017 1:30 PM",
+      "duration":"30",
+      "speakerInfo": [
+        {
+          "name":"Nader Dabit",
+          "twitter":"dabit3",
+          "github": "dabit3",
+          "company":"React Native Training",
+          "bio":"Nader is a Software Developer by trade, the author of React Native in Action by Manning Publications, the creator of React Native Elements, and the host of React Native Radio on Devchat.tv."
+        }
+      ]
+    },
+    {
+      "type":"talk",
+      "speaker":"Naoufal Kadhom",
+      "status":"Completed",
+      "image":"naoufal",
+      "title":"Meeting for Snow Storm preparations",
+      "description":"@RichMichals: The road blocks should be removed as soon as possible because it disturbs the guest I invite. \n@AngelVelez:They were put in for construction of a sewage line which was completed months ago. \n@MichelEichner:A vote should be held on it. \n@Tom:A stop sign should be placed after road blocks are removed some people are reckless drivers and my children play on the street.",
+      "time":"7/10/2017 2:00 PM",
+      "duration":"30",
+      "speakerInfo": [
+        {
+          "name": "Naoufal Kadhom",
+          "twitter":"naoufal",
+          "github": "naoufal",
+          "company":"Netflix",
+          "bio":"Naoufal is a Senior Software Engineer at Netflix. At Netflix, Naoufal writes cross-platform JavaScript that enables millions of people like yourself to binge-watch the latest Netflix Original.  He previously worked as a Senior UI Engineer at Unsplash. When he isn't shipping he latest and greatest at Netflix, he can be found attempting (and failing) to avoid San Francisco hills while running and cycling."
+        }
+      ]
+    },
+    {
+      "type":"talk",
+      "speaker":"Kyle Poole & Thomas Bruketta",
+      "status":"Upcoming",
+      "image":"kyle_thomas",
+      "title":"Meeting For Babylon Pool Repairs",
+      "description":"@RichMichals: The road blocks should be removed as soon as possible because it disturbs the guest I invite. \n@AngelVelez:They were put in for construction of a sewage line which was completed months ago. \n@MichelEichner:A vote should be held on it. \n@Tom:A stop sign should be placed after road blocks are removed some people are reckless drivers and my children play on the street.",
+      "time":"7/12/2017 2:30 PM",
+      "duration":"30",
+      "speakerInfo": [
+        {
+          "name": "Kyle Poole",
+          "company": "Instrument",
+          "twitter": "kylpo",
+          "github": "kylpo",
+          "bio":"Kyle Poole is a full stack web and mobile developer using React (+Native) at Instrument. He’s been using React since v0.5.1 (3.5+ years)."
+        },
+        {
+          "name": "Thomas Brunketta",
+          "company": "Instrument",
+          "twitter": "SirTeebs",
+          "github": "thomasbruketta",
+          "bio":"Thomas likes dragons and he casts spells using React Native."
+        }
+      ]
+    },
+    {
+      "type":"talk",
+      "speaker":"Javier Cuevas",
+      "status":"Completed",
+      "image":"javier",
+      "title":"Meeting For Rewriting the speed laws",
+      "description":"@RichMichals: The road blocks should be removed as soon as possible because it disturbs the guest I invite. \n@AngelVelez:They were put in for construction of a sewage line which was completed months ago. \n@MichelEichner:A vote should be held on it. \n@Tom:A stop sign should be placed after road blocks are removed some people are reckless drivers and my children play on the street.",
+      "time":"7/12/2017 4:00 PM",
+      "duration":"30",
+      "speakerInfo": [
+        {
+          "name": "Javier Cuevas",
+          "twitter":"javier_dev",
+          "github": "javiercr",
+          "company":"Gudog",
+          "bio":"Co-founder / CTO at @Gudog. Formerly CEO at @Diacode. College dropout. Interests: Ruby, Elixir, React Native, Education, FinTech, Marketplaces."
+        }
+      ]
+    },
+    {
+      "type":"talk",
+      "speaker":"Chris Ball",
+      "status":"Upcoming",
+      "image":"chris",
+      "title":"Meeting For Deciding the new President",
+      "description":"@RichMichals: The road blocks should be removed as soon as possible because it disturbs the guest I invite. \n@AngelVelez:They were put in for construction of a sewage line which was completed months ago. \n@MichelEichner:A vote should be held on it. \n@Tom:A stop sign should be placed after road blocks are removed some people are reckless drivers and my children play on the street.",
+      "time":"7/11/2017 4:30 PM",
+      "duration":"30",
+      "speakerInfo": [
+        {
+          "name": "Chris Ball",
+          "twitter":"cball_",
+          "github": "cball",
+          "company":"Echobind",
+          "bio":"Managing Partner at @echobind. Maker. Cycling & camping to counter-balance business & code."
+        }
+      ]
+    },
+    {
+      "type":"talk",
+      "speaker":"Peggy Rayzis",
+      "status":"Upcoming",
+      "image":"peggy",
+      "title":"Meeting for Auditing expenses",
+      "description":"@RichMichals: The road blocks should be removed as soon as possible because it disturbs the guest I invite. \n@AngelVelez:They were put in for construction of a sewage line which was completed months ago. \n@MichelEichner:A vote should be held on it. \n@Tom:A stop sign should be placed after road blocks are removed some people are reckless drivers and my children play on the street.",
+      "time":"7/11/2017 9:00 AM",
+      "duration":"30",
+      "speakerInfo": [
+        {
+          "name": "Peggy Rayzis",
+          "twitter":"peggyrayzis",
+          "github": "peggyrayzis",
+          "company":"Major League Soccer",
+          "bio":"Software Engineer at Major League Soccer focused on building amazing fan experiences in React Native."
+        }
+      ]
+    },
+    {
+      "type":"talk",
+      "speaker":"Eric Baer",
+      "status":"Upcoming",
+      "image":"eric",
+      "title":"Meeting for Organzining Vote History",
+      "description":"@RichMichals: The road blocks should be removed as soon as possible because it disturbs the guest I invite. \n@AngelVelez:They were put in for construction of a sewage line which was completed months ago. \n@MichelEichner:A vote should be held on it. \n@Tom:A stop sign should be placed after road blocks are removed some people are reckless drivers and my children play on the street.",
+      "time":"7/11/2017 9:30 AM",
+      "duration":"30",
+      "speakerInfo": [
+        {
+          "name": "Eric Baer",
+          "twitter":"ebaerbaerbaer",
+          "github": "baer",
+          "company":"Formidable Labs",
+          "bio":"Eric has been developing software for over 10 years ranging from embedded systems in C++ to high traffic APIs in Java and JavaScript. For the past five years Eric has developed a deep specialization in JavaScript and the associated ecosystem. In his current role, Eric is a lead engineer at Formidable in Seattle where he is driving large projects, and writing software around Babel, GraphQL, and i18n."
+        }
+      ]
+    },
+    {
+      "type":"talk",
+      "speaker":"Parashuram Narasimhan",
+      "status":"Completed",
+      "image":"parashuram",
+      "title":"Meeting with Mayor",
+      "description":"@RichMichals: The road blocks should be removed as soon as possible because it disturbs the guest I invite. \n@AngelVelez:They were put in for construction of a sewage line which was completed months ago. \n@MichelEichner:A vote should be held on it. \n@Tom:A stop sign should be placed after road blocks are removed some people are reckless drivers and my children play on the street.",
+      "time":"7/11/2017 10:30 AM",
+      "duration":"30",
+      "speakerInfo": [
+        {
+          "name": "Parashuram Narasimhan",
+          "twitter":"nparashuram",
+          "github": "axemclion",
+          "company":"Microsoft",
+          "bio":"Parashuram is a Senior Program Manager with Microsoft Open Technologies Inc and works on many interesting open source projects including Apache Cordova and Chromium. He is a front end developer passionate about web performance and like to talk about performance practices at conferences. He is also a committer and a member of the Project Management Committee of Apache Cordova."
+        }
+      ]
+    },
+    {
+      "type":"talk",
+      "speaker":"Leland Richardson",
+      "status":"Completed",
+      "image":"leland",
+      "title":"Meeting with Round-Table",
+      "description":"@RichMichals: The road blocks should be removed as soon as possible because it disturbs the guest I invite. \n@AngelVelez:They were put in for construction of a sewage line which was completed months ago. \n@MichelEichner:A vote should be held on it. \n@Tom:A stop sign should be placed after road blocks are removed some people are reckless drivers and my children play on the street.",
+      "time":"7/11/2017 11:00 AM",
+      "duration":"30",
+      "speakerInfo": [
+        {
+          "name": "Leland Richardson",
+          "twitter":"intelligibabble",
+          "github": "lelandrichardson",
+          "company":"Airbnb",
+          "bio":"Leland is a Software Engineer at Airbnb. He likes learning, discussing, and diving into challenges."
+        }
+      ]
+    },
+    {
+      "type":"talk",
+      "speaker":"Kevin Old",
+      "status":"Completed",
+      "image":"kevin",
+      "title":"Meeting for Flyover construction",
+      "description":"@RichMichals: The road blocks should be removed as soon as possible because it disturbs the guest I invite. \n@AngelVelez:They were put in for construction of a sewage line which was completed months ago. \n@MichelEichner:A vote should be held on it. \n@Tom:A stop sign should be placed after road blocks are removed some people are reckless drivers and my children play on the street.",
+      "time":"7/11/2017 11:30 AM",
+      "duration":"30",
+      "speakerInfo": [
+        {
+          "name": "Kevin Old",
+          "twitter":"kevinold",
+          "github": "kevinold",
+          "company":"LifeWay Christian Resources",
+          "bio":"Kevin is a Full-stack, Front-end focused Software Engineer, husband and amateur photographer living in Nashville, TN."
+        }
+      ]
+    },
+    {
+      "type":"talk",
+      "speaker":"Panelists",
+      "status":"Upcoming",
+      "image":"panel",
+      "title":"Meeting for Panelling contractors",
+      "description":"@RichMichals: The road blocks should be removed as soon as possible because it disturbs the guest I invite. \n@AngelVelez:They were put in for construction of a sewage line which was completed months ago. \n@MichelEichner:A vote should be held on it. \n@Tom:A stop sign should be placed after road blocks are removed some people are reckless drivers and my children play on the street.",
+      "time":"7/11/2017 1:30 PM",
+      "duration":"30",
+      "speakerInfo": [
+        {
+          "name": "Matt Hargett",
+          "twitter": "syke",
+          "github": "matthargett",
+          "company": "Blue Jeans",
+          "bio": "Dad, husband, songwriter, gaymer. Programming for over 30 years, open source contributor for 20 years. Lives in San Francisco."
+        },
+        {
+          "name": "Mateo Barraza",
+          "twitter": "mateobarraza",
+          "bio": "A technologist, entrepreneur, someone who is too curious to stay put.",
+          "company": "TalkRecursive Inc."
+        },
+        {
+          "name": "Jani Eväkallio",
+          "twitter": "jevakallio",
+          "github": "jevakallio",
+          "bio": "Head of Mobile Engineering at Formidable Labs",
+          "company": "Formidable Labs"
+        },
+        {
+          "name": "Sanket Sahu",
+          "twitter": "sanketsahu",
+          "github": "sanketsahusoft",
+          "bio": "Co-created NativeBase.io & Founder of GeekyAnts.com",
+          "company": "NativeBase"
+        },
+        {
+          "name": "Jennifer Van",
+          "twitter": "sugargreenbean",
+          "github": "sugargreenbean",
+          "company": "Capital One",
+          "bio": "Rugby player, bartender, bus driver, and artist turned web developer"
+        },
+        {
+          "name": "Dave Nugent",
+          "twitter": "drnugent",
+          "github": "drnugent",
+          "company": "Qlik",
+          "bio": "Dave is a JavaScript developer and advocate. Previously at NASA, he lends his talents to Qlik Branch and Qlik Playground, organises the San Francisco JavaScript Meetup and curates the Forward Web Summit. His expertise? Intuitive enterprise analytics and visualisations in JavaScript. His goal? Building delightful developer experiences with Qlik technology. His love? The open web. He combines all three in his current role as Developer Relations Engineer at Qlik where he gets to bring together JavaScript, technology and people. When you meet him, be sure to tell him about any good local doughnut shops."
+        }
+      ]
+    },
+    {
+      "type":"talk",
+      "speaker":"Harry Tormey",
+      "status":"Completed",
+      "image":"harry",
+      "title":"Meeting for Drainage problem Farmingdale",
+      "description":"@RichMichals: The road blocks should be removed as soon as possible because it disturbs the guest I invite. \n@AngelVelez:They were put in for construction of a sewage line which was completed months ago. \n@MichelEichner:A vote should be held on it. \n@Tom:A stop sign should be placed after road blocks are removed some people are reckless drivers and my children play on the street.",
+      "time":"7/12/2017 2:00 PM",
+      "duration":"30",
+      "speakerInfo": [
+        {
+          "name": "Harry Tormey",
+          "twitter":"htormey",
+          "github": "hgale",
+          "company":"LaunchDrawer",
+          "bio":"Harry is an experienced Software Engineer who has worked at prominent Bay Area companies such as Apple and Facebook.  At Facebook he worked as an iOS engineer on both the search and commerce teams building customer facing features that shipped in the main Facebook app. At Apple he worked on the Core Audio team where he specialized in frameworks for multimedia Desktop and Mobile Applications.  Harry has also shipped a number of React Native applications and runs a consultancy that specializes in mobile development. "
+        }
+      ]
+    },
+    {
+      "type":"talk",
+      "speaker":"Alex Kotliarskyi",
+      "status":"Completed",
+      "image":"alex",
+      "title":"Meeting with PMAC",
+      "description":"@RichMichals: The road blocks should be removed as soon as possible because it disturbs the guest I invite. \n@AngelVelez:They were put in for construction of a sewage line which was completed months ago. \n@MichelEichner:A vote should be held on it. \n@Tom:A stop sign should be placed after road blocks are removed some people are reckless drivers and my children play on the street.",
+      "time":"7/12/2017 2:30 PM",
+      "duration":"30",
+      "speakerInfo": [
+        {
+          "name": "Alex Kotliarskyi",
+          "twitter":"alex_frantic",
+          "github": "frantic",
+          "company":"Facebook",
+          "bio":"Helping build amazing experiences at Oculus. Worked at Facebook on React Native core & devtools."
+        }
+      ]
+    },
+    {
+      "type":"talk",
+      "speaker":"Doug Lowder",
+      "status":"Completed",
+      "image":"doug",
+      "title":"Meeting with NIA",
+      "description":"@RichMichals: The road blocks should be removed as soon as possible because it disturbs the guest I invite. \n@AngelVelez:They were put in for construction of a sewage line which was completed months ago. \n@MichelEichner:A vote should be held on it. \n@Tom:A stop sign should be placed after road blocks are removed some people are reckless drivers and my children play on the street.",
+      "time":"7/11/2017 4:00 PM",
+      "duration":"30",
+      "speakerInfo": [
+        {
+          "name": "Doug Lowder",
+          "twitter":"douglowder",
+          "github":"dlowder-salesforce",
+          "company":"SalesForce",
+          "bio":"Mobile software developer, and Irish traditional musician."
+        }
+      ]
+    },
+    {
+      "type":"talk",
+      "speaker":"Ken Wheeler",
+      "status":"Upcoming",
+      "image":"ken",
+      "title":"Meeting for Deciding a new member",
+      "description":"@RichMichals: The road blocks should be removed as soon as possible because it disturbs the guest I invite. \n@AngelVelez:They were put in for construction of a sewage line which was completed months ago. \n@MichelEichner:A vote should be held on it. \n@Tom:A stop sign should be placed after road blocks are removed some people are reckless drivers and my children play on the street.",
+      "time":"7/10/2017 4:30 PM",
+      "duration":"30",
+      "speakerInfo": [
+        {
+          "name": "Ken Wheeler",
+          "twitter":"ken_wheeler",
+          "github": "kenwheeler",
+          "company":"Formidable Labs",
+          "bio":"Ken Wheeler is the Director of Open Source at Formidable and the author of open source libraries such as Slick Carousel, Spectacle, webpack-dashboard and react-music."
+        }
+      ]
+    },
+    {
+      "type":"breakfast",
+      "title": "VOTE FOR STOP SIGN",
+      "status":"Upcoming",
+      "time":"7/12/2017 7:30 AM",
+      "duration":"75",
+      "options": ["@RM- I abstained because it is not really my intrest", "@Azhar- I am all for it", "@Angel- I care about my kids safety so Its a yes"],
+      "stats": [
+        {
+          "name":"FOR",
+          "value":10
+        },
+        {
+          "name":"AGAINST",
+          "value": 5
+        },
+        {
+          "name":"ABSTAIN",
+          "value":3
+        },
+        {
+          "name":"NO REPLY",
+          "value":1
+        },
+      ],
+      "totalVotes":"19",
+      "veganOptions": []
+    },
+    {
+      "type":"breakfast",
+      "title": "VOTE FOR VILLAGE BAR AFTER 12",
+      "status":"Upcoming",
+      "time":"7/11/2017 7:30 AM",
+      "duration":"75",
+      "options": ["@RM- I abstained because it is not really my intrest", "@Azhar- I am all for it", "@Angel- I care about my kids safety so Its a yes"],
+      "stats": [
+        {
+          "name":"FOR",
+          "value":10
+        },
+        {
+          "name":"AGAINST",
+          "value": 5
+        },
+        {
+          "name":"ABSTAIN",
+          "value":3
+        },
+        {
+          "name":"NO REPLY",
+          "value":1
+        },
+      ],
+      "totalVotes":"19",
+      "veganOptions": []
+    },
+    {
+      "type":"coffee",
+      "title": "VOTE FOR NEW PRESIDENT",
+      "status":"Upcoming",
+      "time":"7/10/2017 10:00 AM",
+      "duration":"30",
+     "options": ["@RM- I abstained because it is not really my intrest", "@Azhar- I am all for it", "@Angel- I care about my kids safety so Its a yes"],
+      "stats": [
+        {
+          "name":"FOR",
+          "value":10
+        },
+        {
+          "name":"AGAINST",
+          "value": 5
+        },
+        {
+          "name":"ABSTAIN",
+          "value":3
+        },
+        {
+          "name":"NO REPLY",
+          "value":1
+        },
+      ],
+      "totalVotes":"19",
+      "veganOptions": []
+    },
+    {
+      "type":"coffee",
+      "title": "VOTE FOR NEW CONTARCTOR",
+      "status":"Completed",
+      "time":"7/12/2017 10:00 AM",
+      "duration":"30",
+    "options": ["@RM- I abstained because it is not really my intrest", "@Azhar- I am all for it", "@Angel- I care about my kids safety so Its a yes"],
+      "stats": [
+        {
+          "name":"FOR",
+          "value":10
+        },
+        {
+          "name":"AGAINST",
+          "value": 5
+        },
+        {
+          "name":"ABSTAIN",
+          "value":3
+        },
+        {
+          "name":"NO REPLY",
+          "value":1
+        },
+      ],
+      "totalVotes":"19",
+      "veganOptions": []
+    },
+    {
+      "type":"lunch",
+      "title": "VOTE FOR NEW PARKING SPOTS",
+      "status":"Completed",
+      "time":"7/10/2017 12:00 PM",
+      "duration":"90",
+     "options": ["@RM- I abstained because it is not really my intrest", "@Azhar- I am all for it", "@Angel- I care about my kids safety so Its a yes"],
+      "stats": [
+        {
+          "name":"FOR",
+          "value":10
+        },
+        {
+          "name":"AGAINST",
+          "value": 5
+        },
+        {
+          "name":"ABSTAIN",
+          "value":3
+        },
+        {
+          "name":"NO REPLY",
+          "value":1
+        },
+      ],
+      "totalVotes":"19",
+      "veganOptions": []
+    },
+    {
+      "type":"lunch",
+      "time":"7/12/2017 12:00 PM",
+      "title": "VOTE FOR INSTALLING SOLAR PANEL",
+      "status":"Upcoming",
+      "duration":"90",
+      "options": ["@RM- I abstained because it is not really my intrest", "@Azhar- I am all for it", "@Angel- I care about my kids safety so Its a yes"],
+      "stats": [
+        {
+          "name":"FOR",
+          "value":10
+        },
+        {
+          "name":"AGAINST",
+          "value": 5
+        },
+        {
+          "name":"ABSTAINED",
+          "value":3
+        },
+        {
+          "name":"DID NOT VOTE",
+          "value":1
+        },
+      ],
+      "totalVotes":"19",
+      "veganOptions": []
+    },
+    {
+      "type":"coffee",
+      "title": "VOTE FOR DELETING INACTIVE MEMBERS",
+      "status":"Upcoming",
+      "time":"7/11/2017 3:00 PM",
+      "duration":"60",
+     "options": ["@RM- I abstained because it is not really my intrest", "@Azhar- I am all for it", "@Angel- I care about my kids safety so Its a yes"],
+      "stats": [
+        {
+          "name":"FOR",
+          "value":10
+        },
+        {
+          "name":"AGAINST",
+          "value": 5
+        },
+        {
+          "name":"ABSTAIN",
+          "value":3
+        },
+        {
+          "name":"NO REPLY",
+          "value":1
+        },
+      ],
+      "totalVotes":"19",
+      "veganOptions": []
+    },
+    {
+      "type":"coffee",
+      "title": "VOTE FOR A NEW DATE FOR MEETING",
+      "status":"Completed",
+      "time":"7/13/2017 3:00 PM",
+      "duration":"60",
+     "options": ["@RM- I abstained because it is not really my intrest", "@Azhar- I am all for it", "@Angel- I care about my kids safety so Its a yes"],
+      "stats": [
+        {
+          "name":"FOR",
+          "value":10
+        },
+        {
+          "name":"AGAINST",
+          "value": 5
+        },
+        {
+          "name":"ABSTAIN",
+          "value":3
+        },
+        {
+          "name":"NO REPLY",
+          "value":1
+        },
+      ],
+      "totalVotes":"19",
+      "veganOptions": []
+    },
+    {
+      "type":"party",
+      "title": "VOTE FOR USE OF Round-Table",
+      "status":"Completed",
+      "time":"7/10/2017 5:00 PM",
+      "duration":"150",
+       "options": ["@RM- I abstained because it is not really my intrest", "@Azhar- I am all for it", "@Angel- I care about my kids safety so Its a yes"],
+      "stats": [
+        {
+          "name":"FOR",
+          "value":10
+        },
+        {
+          "name":"AGAINST",
+          "value": 5
+        },
+        {
+          "name":"ABSTAIN",
+          "value":3
+        },
+        {
+          "name":"NO REPLY",
+          "value":1
+        },
+      ],
+      "totalVotes":"19",
+      "veganOptions": []
+    }
+  ]
+}
